@@ -1,0 +1,1001 @@
+student_id,name,department,marks,result
+STU0001,Samantha Anderson,Computer Science,51,Pass
+STU0002,Mark Moore,History,89,Pass
+STU0003,Elizabeth Müller,Electrical Engineering,0,Fail
+STU0004,Elizabeth Ramirez,Chemistry,23,Fail
+STU0005,Brenda Sanchez,History,89,Pass
+STU0006,Rebecca Lewis,Civil Engineering,20,Fail
+STU0007,Harper Lee,History,55,Pass
+STU0008,Karen Ramirez,English Literature,31,Fail
+STU0009,Timothy Gonzalez,Mechanical Engineering,97,Pass
+STU0010,Dorothy Garcia,History,35,Fail
+STU0011,Timothy Hernandez,Business Administration,100,Pass
+STU0012,Helen Campbell,Economics,28,Fail
+STU0013,Jennifer Costa,Chemistry,30,Fail
+STU0014,Sandra Gonzalez,Electrical Engineering,66,Pass
+STU0015,Christopher Mitchell,Mechanical Engineering,54,Pass
+STU0016,Mia Ryan,Mathematics,41,Pass
+STU0017,Jonathan Young,Physics,54,Pass
+STU0018,Samantha Kim,Chemistry,27,Fail
+STU0019,Sandra Jones,English Literature,54,Pass
+STU0020,William Ramirez,Political Science,60,Pass
+STU0021,Margaret Sullivan,Civil Engineering,78,Pass
+STU0022,Charles King,Physics,91,Pass
+STU0023,Jonathan King,History,94,Pass
+STU0024,Stephanie Campbell,Chemistry,37,Fail
+STU0025,Angela Yang,Mathematics,34,Fail
+STU0026,Karen Murphy,Physics,74,Pass
+STU0027,Scott Rodriguez,Electrical Engineering,79,Pass
+STU0028,Shirley Allen,Business Administration,21,Fail
+STU0029,Sofia Anderson,Psychology,54,Pass
+STU0030,Logan Ryan,Mechanical Engineering,75,Pass
+STU0031,Christopher Ibrahim,Computer Science,53,Pass
+STU0032,Nicholas Thompson,Business Administration,100,Pass
+STU0033,Kenneth Walsh,Business Administration,39,Fail
+STU0034,Melissa Lee,Business Administration,87,Pass
+STU0035,James Schmidt,Mechanical Engineering,34,Fail
+STU0036,George Flores,Chemistry,0,Fail
+STU0037,Larry Hernandez,Mathematics,28,Fail
+STU0038,Harper Yamamoto,English Literature,80,Pass
+STU0039,Stephen Perez,Biology,97,Pass
+STU0040,Jason Ramirez,Political Science,45,Pass
+STU0041,Isabella Flores,Electrical Engineering,67,Pass
+STU0042,Jeffrey Lin,Civil Engineering,48,Pass
+STU0043,William Baker,Computer Science,49,Pass
+STU0044,Emma Lewis,Computer Science,0,Fail
+STU0045,Benjamin Davis,Chemistry,0,Fail
+STU0046,Robert Nelson,Mathematics,55,Pass
+STU0047,Christine Zhang,Chemistry,93,Pass
+STU0048,Pamela Wang,Chemistry,72,Pass
+STU0049,Matthew Gonzalez,Mathematics,65,Pass
+STU0050,Jason Singh,Civil Engineering,26,Fail
+STU0051,Aiden Sullivan,Psychology,71,Pass
+STU0052,Olivia Baker,English Literature,51,Pass
+STU0053,Matthew Harris,Business Administration,74,Pass
+STU0054,Nancy Scott,Civil Engineering,29,Fail
+STU0055,Jeffrey Sato,Mathematics,0,Fail
+STU0056,Anna Johnson,Mathematics,50,Pass
+STU0057,Lisa Singh,Civil Engineering,71,Pass
+STU0058,Linda Perez,Electrical Engineering,0,Fail
+STU0059,Deborah King,Political Science,78,Pass
+STU0060,Andrew Ahmed,History,91,Pass
+STU0061,Raymond Zhang,Physics,47,Pass
+STU0062,Linda Andersen,History,60,Pass
+STU0063,Linda Miller,Economics,87,Pass
+STU0064,Christopher Davis,Business Administration,43,Pass
+STU0065,William Schmidt,Mathematics,50,Pass
+STU0066,Stephanie Thomas,Political Science,94,Pass
+STU0067,Scott Garcia,Economics,94,Pass
+STU0068,Larry Lin,Mechanical Engineering,46,Pass
+STU0069,Christine Green,Chemistry,36,Fail
+STU0070,Christine Ryan,Biology,29,Fail
+STU0071,Mary Ibrahim,Economics,32,Fail
+STU0072,Barbara Yamamoto,Chemistry,36,Fail
+STU0073,Brian Rodriguez,Political Science,56,Pass
+STU0074,Christopher Ali,Sociology,58,Pass
+STU0075,Brandon Sullivan,Business Administration,0,Fail
+STU0076,Stephen Hill,Political Science,37,Fail
+STU0077,Dorothy Anderson,Political Science,90,Pass
+STU0078,Karen Wright,Biology,63,Pass
+STU0079,Anthony Walsh,Sociology,82,Pass
+STU0080,Steven Miller,Mathematics,55,Pass
+STU0081,Jennifer Smith,Mechanical Engineering,53,Pass
+STU0082,Christopher Ali,Business Administration,91,Pass
+STU0083,Mary Anderson,Mathematics,39,Fail
+STU0084,Anna Jones,Sociology,90,Pass
+STU0085,Charles Khan,Physics,0,Fail
+STU0086,George Garcia,Political Science,51,Pass
+STU0087,Christine Wilson,Mechanical Engineering,72,Pass
+STU0088,Helen Martin,Political Science,40,Pass
+STU0089,Daniel Singh,Computer Science,62,Pass
+STU0090,Oliver Singh,English Literature,51,Pass
+STU0091,Paul Lee,English Literature,68,Pass
+STU0092,Robert Wang,Chemistry,78,Pass
+STU0093,Brian Flores,Sociology,49,Pass
+STU0094,Mark Brown,Psychology,62,Pass
+STU0095,Kimberly Rodriguez,English Literature,85,Pass
+STU0096,Stephanie Rossi,Sociology,23,Fail
+STU0097,Joseph King,Physics,53,Pass
+STU0098,Robert Wilson,Economics,60,Pass
+STU0099,Sharon Fischer,Business Administration,93,Pass
+STU0100,Matthew Allen,Computer Science,20,Fail
+STU0101,Eric Yamamoto,Psychology,45,Pass
+STU0102,George Khan,Mathematics,62,Pass
+STU0103,Helen Green,Psychology,58,Pass
+STU0104,Nicholas Flores,Psychology,71,Pass
+STU0105,Mia Nguyen,Business Administration,73,Pass
+STU0106,Christine Carter,Psychology,42,Pass
+STU0107,Brandon Park,Biology,20,Fail
+STU0108,Kenneth Torres,Chemistry,94,Pass
+STU0109,Nicole Sullivan,Mechanical Engineering,76,Pass
+STU0110,Aiden Ramirez,Business Administration,41,Pass
+STU0111,Raymond Hernandez,Biology,99,Pass
+STU0112,Kevin Lopez,Sociology,50,Pass
+STU0113,Aiden Flores,Chemistry,38,Fail
+STU0114,Patricia Garcia,Chemistry,98,Pass
+STU0115,Logan Martinez,Civil Engineering,100,Pass
+STU0116,Pamela Harris,History,83,Pass
+STU0117,Stephanie Young,Physics,20,Fail
+STU0118,Noah Wilson,English Literature,42,Pass
+STU0119,Mia Lin,Civil Engineering,0,Fail
+STU0120,Ashley Thomas,Civil Engineering,79,Pass
+STU0121,Christine Tanaka,Business Administration,76,Pass
+STU0122,Brandon Huang,Electrical Engineering,90,Pass
+STU0123,Laura Lee,History,77,Pass
+STU0124,Dorothy Young,Sociology,86,Pass
+STU0125,Gary Murphy,Chemistry,29,Fail
+STU0126,Isabella Torres,Chemistry,60,Pass
+STU0127,Anna Hernandez,Physics,69,Pass
+STU0128,Lucas Martin,History,73,Pass
+STU0129,Edward Nelson,Business Administration,27,Fail
+STU0130,Anthony Shah,Electrical Engineering,94,Pass
+STU0131,Mia Williams,Sociology,93,Pass
+STU0132,Timothy Liu,Computer Science,58,Pass
+STU0133,Noah Roberts,Sociology,73,Pass
+STU0134,Jonathan Suzuki,English Literature,48,Pass
+STU0135,Gary Lewis,Biology,23,Fail
+STU0136,Deborah Baker,Psychology,71,Pass
+STU0137,Mason Perez,Sociology,36,Fail
+STU0138,Helen Yamamoto,Computer Science,95,Pass
+STU0139,Larry Costa,Computer Science,74,Pass
+STU0140,Sarah Chen,Physics,0,Fail
+STU0141,Timothy Adams,Chemistry,63,Pass
+STU0142,Harper Carter,Biology,73,Pass
+STU0143,Steven Hernandez,Civil Engineering,0,Fail
+STU0144,Anna Miller,Mechanical Engineering,28,Fail
+STU0145,Evelyn Sullivan,Computer Science,51,Pass
+STU0146,Betty Williams,Economics,36,Fail
+STU0147,Jacob Ferrari,Mathematics,47,Pass
+STU0148,Cynthia Allen,English Literature,97,Pass
+STU0149,Nicole Anderson,English Literature,59,Pass
+STU0150,Susan Andersen,Computer Science,93,Pass
+STU0151,Aiden Carter,Electrical Engineering,45,Pass
+STU0152,Barbara Müller,History,51,Pass
+STU0153,Susan Hill,Sociology,35,Fail
+STU0154,Abigail Park,English Literature,0,Fail
+STU0155,Jonathan Ahmed,Psychology,84,Pass
+STU0156,Samuel Baker,Computer Science,82,Pass
+STU0157,Susan Khan,Mechanical Engineering,78,Pass
+STU0158,Ethan Martin,Electrical Engineering,86,Pass
+STU0159,Katherine Wright,Economics,88,Pass
+STU0160,Evelyn Liu,Civil Engineering,95,Pass
+STU0161,Paul Adams,Sociology,31,Fail
+STU0162,Kimberly Hassan,Chemistry,92,Pass
+STU0163,Brandon Ferrari,Electrical Engineering,83,Pass
+STU0164,Michelle White,Civil Engineering,53,Pass
+STU0165,Carol Scott,Political Science,55,Pass
+STU0166,Brenda Johnson,Business Administration,30,Fail
+STU0167,Donald Singh,Civil Engineering,50,Pass
+STU0168,Lucas Wang,Psychology,77,Pass
+STU0169,Abigail Williams,Mathematics,71,Pass
+STU0170,Lucas Young,Biology,67,Pass
+STU0171,Jacob Sato,Business Administration,90,Pass
+STU0172,Kevin Rivera,History,59,Pass
+STU0173,Steven Robinson,Mathematics,60,Pass
+STU0174,Jessica Yamamoto,English Literature,44,Pass
+STU0175,Margaret Liu,Biology,87,Pass
+STU0176,Scott Torres,Mathematics,57,Pass
+STU0177,Sandra Campbell,Physics,88,Pass
+STU0178,Thomas Scott,Computer Science,90,Pass
+STU0179,Emily Taylor,Psychology,82,Pass
+STU0180,Susan Johnson,Economics,81,Pass
+STU0181,Jeffrey Baker,Physics,52,Pass
+STU0182,Kathleen Anderson,Sociology,0,Fail
+STU0183,Gary Martinez,Economics,26,Fail
+STU0184,Karen Martin,English Literature,58,Pass
+STU0185,David Young,Mathematics,73,Pass
+STU0186,Nicole Schmidt,English Literature,86,Pass
+STU0187,Timothy Hassan,Political Science,95,Pass
+STU0188,Jason Flores,Economics,98,Pass
+STU0189,Liam Gonzalez,English Literature,47,Pass
+STU0190,Dorothy Costa,Mathematics,42,Pass
+STU0191,Stephen Martinez,Physics,0,Fail
+STU0192,Laura Schmidt,Civil Engineering,49,Pass
+STU0193,Andrew Torres,History,29,Fail
+STU0194,Sofia Robinson,Political Science,100,Pass
+STU0195,Emma Costa,English Literature,74,Pass
+STU0196,Joseph Suzuki,Chemistry,54,Pass
+STU0197,Charles Martinez,Computer Science,59,Pass
+STU0198,Scott Park,Political Science,35,Fail
+STU0199,Cynthia Hill,History,54,Pass
+STU0200,Nicholas Suzuki,Civil Engineering,96,Pass
+STU0201,Jennifer Khan,History,52,Pass
+STU0202,Patricia Lopez,Chemistry,93,Pass
+STU0203,Emma Williams,English Literature,54,Pass
+STU0204,Pamela Garcia,English Literature,80,Pass
+STU0205,Eric Sullivan,Civil Engineering,43,Pass
+STU0206,Justin Khan,Psychology,31,Fail
+STU0207,Jacob Hall,Electrical Engineering,33,Fail
+STU0208,Christopher Nelson,Electrical Engineering,56,Pass
+STU0209,Raymond Kumar,Sociology,24,Fail
+STU0210,Ryan Lopez,Mechanical Engineering,34,Fail
+STU0211,Logan Kumar,Sociology,20,Fail
+STU0212,Raymond Suzuki,Civil Engineering,44,Pass
+STU0213,Eric Campbell,Economics,100,Pass
+STU0214,Jeffrey Miller,Chemistry,36,Fail
+STU0215,Andrew Ali,Political Science,35,Fail
+STU0216,Patricia Murphy,Economics,40,Pass
+STU0217,Donna Sato,Computer Science,31,Fail
+STU0218,Mark Anderson,Civil Engineering,39,Fail
+STU0219,Amy Nguyen,Business Administration,73,Pass
+STU0220,Kathleen Wang,Chemistry,38,Fail
+STU0221,Deborah Harris,Political Science,37,Fail
+STU0222,William Scott,English Literature,73,Pass
+STU0223,Carol Huang,Biology,56,Pass
+STU0224,Mason Hill,Sociology,82,Pass
+STU0225,Karen Hassan,Business Administration,62,Pass
+STU0226,Stephen Suzuki,Electrical Engineering,61,Pass
+STU0227,Matthew Walker,Economics,72,Pass
+STU0228,Jennifer Green,History,68,Pass
+STU0229,Deborah Costa,English Literature,39,Fail
+STU0230,Amy Jones,Physics,95,Pass
+STU0231,Kevin Gonzalez,Sociology,32,Fail
+STU0232,Shirley Ibrahim,Computer Science,72,Pass
+STU0233,Katherine Martin,Mathematics,53,Pass
+STU0234,Carol O'Brien,History,30,Fail
+STU0235,Kevin Rossi,Sociology,60,Pass
+STU0236,Benjamin Zhang,Sociology,99,Pass
+STU0237,William Walker,Psychology,56,Pass
+STU0238,Sandra Lopez,Electrical Engineering,32,Fail
+STU0239,Jeffrey Perez,History,23,Fail
+STU0240,Jennifer Adams,English Literature,0,Fail
+STU0241,Amanda Mitchell,Electrical Engineering,87,Pass
+STU0242,Edward Park,Psychology,41,Pass
+STU0243,Daniel Hernandez,Economics,99,Pass
+STU0244,Sofia Walker,Civil Engineering,38,Fail
+STU0245,Sandra Chen,Psychology,52,Pass
+STU0246,Christine Johnson,Political Science,56,Pass
+STU0247,Aiden Suzuki,Physics,0,Fail
+STU0248,Brian Müller,Biology,74,Pass
+STU0249,Lucas Allen,Civil Engineering,45,Pass
+STU0250,Deborah Liu,Mathematics,93,Pass
+STU0251,Amanda Choi,Biology,57,Pass
+STU0252,John Costa,Electrical Engineering,92,Pass
+STU0253,Sofia Miller,Political Science,83,Pass
+STU0254,Andrew Robinson,Economics,48,Pass
+STU0255,Samantha Harris,Economics,37,Fail
+STU0256,Benjamin Gonzalez,Political Science,25,Fail
+STU0257,Donna Ali,Computer Science,36,Fail
+STU0258,Elizabeth Nguyen,Mechanical Engineering,42,Pass
+STU0259,Betty Taylor,English Literature,66,Pass
+STU0260,Shirley Huang,Political Science,41,Pass
+STU0261,Steven Liu,English Literature,63,Pass
+STU0262,Joseph Chen,Mathematics,48,Pass
+STU0263,Aiden Rossi,Electrical Engineering,91,Pass
+STU0264,George Lopez,English Literature,53,Pass
+STU0265,Jonathan Thomas,Civil Engineering,53,Pass
+STU0266,Justin Carter,Sociology,67,Pass
+STU0267,Susan Rossi,Chemistry,99,Pass
+STU0268,Brenda Adams,Political Science,28,Fail
+STU0269,Samantha Chen,Political Science,72,Pass
+STU0270,Joseph Moore,Computer Science,58,Pass
+STU0271,Amy Anderson,Mathematics,88,Pass
+STU0272,Sarah Roberts,Civil Engineering,89,Pass
+STU0273,Rebecca Müller,History,73,Pass
+STU0274,Katherine Gonzalez,Sociology,72,Pass
+STU0275,Kimberly Jones,History,76,Pass
+STU0276,Jeffrey Walker,Sociology,67,Pass
+STU0277,Anna Ryan,Mechanical Engineering,0,Fail
+STU0278,Kimberly Harris,Mathematics,78,Pass
+STU0279,Elizabeth Costa,Chemistry,96,Pass
+STU0280,John Miller,English Literature,36,Fail
+STU0281,Oliver Park,Chemistry,0,Fail
+STU0282,Harper Sato,Chemistry,49,Pass
+STU0283,Kevin Jackson,English Literature,20,Fail
+STU0284,Kimberly Jackson,Physics,42,Pass
+STU0285,Joseph Costa,Sociology,0,Fail
+STU0286,Mary Rivera,English Literature,95,Pass
+STU0287,Michelle Williams,Physics,36,Fail
+STU0288,Liam Shah,Business Administration,28,Fail
+STU0289,Jacob Hassan,English Literature,95,Pass
+STU0290,Susan Hassan,Business Administration,98,Pass
+STU0291,Jennifer Costa,Business Administration,23,Fail
+STU0292,Linda Liu,Sociology,33,Fail
+STU0293,Gary Ali,Mathematics,61,Pass
+STU0294,Nicole Jackson,Mathematics,99,Pass
+STU0295,Samantha Andersen,Business Administration,68,Pass
+STU0296,Scott Tanaka,Biology,97,Pass
+STU0297,Sharon Gonzalez,English Literature,90,Pass
+STU0298,Mason Ramirez,Electrical Engineering,49,Pass
+STU0299,Edward Baker,Sociology,73,Pass
+STU0300,Olivia Gonzalez,Mechanical Engineering,52,Pass
+STU0301,Melissa Martin,Psychology,28,Fail
+STU0302,Elizabeth Hernandez,Mathematics,67,Pass
+STU0303,Thomas Kim,Computer Science,91,Pass
+STU0304,Brenda Nelson,Psychology,65,Pass
+STU0305,Christine Ahmed,Sociology,26,Fail
+STU0306,Andrew Schmidt,Biology,93,Pass
+STU0307,Nicholas Ramirez,Physics,48,Pass
+STU0308,Susan Hall,Sociology,34,Fail
+STU0309,Harper Scott,Economics,74,Pass
+STU0310,Brenda O'Brien,Economics,91,Pass
+STU0311,Patricia Fischer,Political Science,54,Pass
+STU0312,Patricia White,Biology,59,Pass
+STU0313,Carol Hall,Computer Science,38,Fail
+STU0314,Larry Costa,Electrical Engineering,0,Fail
+STU0315,Liam Walsh,Computer Science,87,Pass
+STU0316,Margaret Carter,Electrical Engineering,40,Pass
+STU0317,Melissa Flores,History,92,Pass
+STU0318,Scott Hernandez,Political Science,0,Fail
+STU0319,Christopher O'Brien,Computer Science,54,Pass
+STU0320,Jeffrey Costa,Electrical Engineering,76,Pass
+STU0321,Rebecca Wright,Chemistry,34,Fail
+STU0322,Brian Khan,Mathematics,95,Pass
+STU0323,Gary Tanaka,Psychology,48,Pass
+STU0324,Ronald Schmidt,Computer Science,0,Fail
+STU0325,Kenneth Ramirez,English Literature,52,Pass
+STU0326,Emily Adams,Mathematics,0,Fail
+STU0327,Ava Khan,Physics,88,Pass
+STU0328,Ethan Robinson,Business Administration,65,Pass
+STU0329,Barbara Patel,Sociology,75,Pass
+STU0330,John Ibrahim,Political Science,0,Fail
+STU0331,Joshua Choi,Electrical Engineering,73,Pass
+STU0332,Emily Anderson,Electrical Engineering,0,Fail
+STU0333,Michelle Perez,English Literature,78,Pass
+STU0334,Lucas Campbell,Mathematics,33,Fail
+STU0335,Ashley Khan,Economics,30,Fail
+STU0336,Ronald Flores,History,62,Pass
+STU0337,Evelyn Perez,Mathematics,34,Fail
+STU0338,Shirley Wu,Chemistry,64,Pass
+STU0339,Brian Ryan,Sociology,33,Fail
+STU0340,Charles Allen,Chemistry,39,Fail
+STU0341,Harper Sullivan,Mathematics,100,Pass
+STU0342,Amy Chen,English Literature,94,Pass
+STU0343,Laura Park,Psychology,99,Pass
+STU0344,Michelle Murphy,Mechanical Engineering,28,Fail
+STU0345,Jacob Ali,Psychology,55,Pass
+STU0346,Emma Davis,Mechanical Engineering,59,Pass
+STU0347,Cynthia Hassan,Computer Science,0,Fail
+STU0348,Andrew Martinez,Psychology,31,Fail
+STU0349,Brandon Schmidt,Business Administration,94,Pass
+STU0350,Stephen Garcia,Civil Engineering,93,Pass
+STU0351,Katherine Harris,Mechanical Engineering,84,Pass
+STU0352,Karen Davis,Civil Engineering,63,Pass
+STU0353,Isabella Hernandez,Business Administration,25,Fail
+STU0354,Ashley Ali,Civil Engineering,98,Pass
+STU0355,Christopher Campbell,Mechanical Engineering,69,Pass
+STU0356,Edward Baker,Psychology,100,Pass
+STU0357,Samuel Nelson,Mathematics,91,Pass
+STU0358,Aiden Roberts,Biology,97,Pass
+STU0359,Karen Nelson,Mathematics,38,Fail
+STU0360,Brian Flores,Psychology,70,Pass
+STU0361,Thomas Schmidt,History,59,Pass
+STU0362,Brenda Carter,Psychology,36,Fail
+STU0363,Christine Tanaka,Mathematics,74,Pass
+STU0364,Angela Campbell,Computer Science,43,Pass
+STU0365,Margaret Baker,English Literature,48,Pass
+STU0366,Sarah Martin,Mathematics,32,Fail
+STU0367,Nicholas Suzuki,Sociology,87,Pass
+STU0368,Robert Costa,Mechanical Engineering,99,Pass
+STU0369,Thomas Schmidt,Electrical Engineering,43,Pass
+STU0370,Lucas O'Brien,English Literature,76,Pass
+STU0371,Jennifer Singh,Mechanical Engineering,50,Pass
+STU0372,Jeffrey Weber,Biology,77,Pass
+STU0373,Sandra Yamamoto,Chemistry,80,Pass
+STU0374,Matthew Mitchell,Psychology,76,Pass
+STU0375,Cynthia Torres,English Literature,87,Pass
+STU0376,Rebecca Lee,Sociology,97,Pass
+STU0377,Sarah Allen,Computer Science,67,Pass
+STU0378,Stephen Wilson,History,35,Fail
+STU0379,Andrew Hernandez,English Literature,77,Pass
+STU0380,Angela Jackson,Sociology,48,Pass
+STU0381,Laura Hall,Political Science,0,Fail
+STU0382,Michael Patel,Business Administration,69,Pass
+STU0383,David Mitchell,Chemistry,0,Fail
+STU0384,Richard Sullivan,Mechanical Engineering,37,Fail
+STU0385,Robert Torres,Political Science,37,Fail
+STU0386,Harper Wang,Civil Engineering,30,Fail
+STU0387,John Allen,Chemistry,90,Pass
+STU0388,Olivia Fischer,Business Administration,56,Pass
+STU0389,Donald Hill,Mathematics,0,Fail
+STU0390,Rebecca Walsh,English Literature,28,Fail
+STU0391,Joseph Yang,Economics,100,Pass
+STU0392,Angela Choi,Chemistry,57,Pass
+STU0393,Jason Smith,Economics,93,Pass
+STU0394,Rebecca White,Psychology,87,Pass
+STU0395,George Rodriguez,Business Administration,84,Pass
+STU0396,Stephen Williams,Electrical Engineering,25,Fail
+STU0397,Samantha Roberts,Mechanical Engineering,22,Fail
+STU0398,Amanda Rodriguez,Mechanical Engineering,100,Pass
+STU0399,Susan Andersen,History,37,Fail
+STU0400,Jennifer Rivera,Business Administration,42,Pass
+STU0401,Evelyn Chen,History,43,Pass
+STU0402,Sarah Rodriguez,History,78,Pass
+STU0403,Robert Nguyen,Chemistry,0,Fail
+STU0404,Betty Garcia,Mechanical Engineering,85,Pass
+STU0405,Ronald Suzuki,Civil Engineering,44,Pass
+STU0406,Andrew Rivera,Sociology,62,Pass
+STU0407,Paul Thomas,English Literature,71,Pass
+STU0408,Ava Ali,Political Science,63,Pass
+STU0409,Nancy Yang,History,86,Pass
+STU0410,Paul Hernandez,History,75,Pass
+STU0411,Nicole White,Business Administration,33,Fail
+STU0412,David Adams,Psychology,77,Pass
+STU0413,Nicole Ahmed,Physics,64,Pass
+STU0414,Laura Garcia,History,65,Pass
+STU0415,Brandon Khan,Biology,27,Fail
+STU0416,Barbara Ferrari,Psychology,85,Pass
+STU0417,Ava Rossi,Physics,38,Fail
+STU0418,Nicole Rossi,English Literature,36,Fail
+STU0419,William Walker,English Literature,66,Pass
+STU0420,Deborah Park,Computer Science,77,Pass
+STU0421,Melissa Mitchell,Civil Engineering,93,Pass
+STU0422,Sarah Tanaka,Mechanical Engineering,55,Pass
+STU0423,Ashley Anderson,Computer Science,83,Pass
+STU0424,Eric Roberts,Political Science,53,Pass
+STU0425,Evelyn King,History,98,Pass
+STU0426,Andrew Zhang,Chemistry,29,Fail
+STU0427,Laura Thompson,Political Science,31,Fail
+STU0428,Sofia Green,Psychology,28,Fail
+STU0429,Stephen Suzuki,Biology,40,Pass
+STU0430,Isabella Walsh,Physics,85,Pass
+STU0431,Mark Thomas,Chemistry,50,Pass
+STU0432,Abigail Yang,Computer Science,93,Pass
+STU0433,Melissa Chen,English Literature,36,Fail
+STU0434,Brandon Lopez,Mathematics,81,Pass
+STU0435,Shirley Singh,English Literature,93,Pass
+STU0436,Barbara Taylor,Mechanical Engineering,77,Pass
+STU0437,Cynthia Lin,Mechanical Engineering,90,Pass
+STU0438,Samantha Müller,Physics,36,Fail
+STU0439,Sharon Huang,Political Science,35,Fail
+STU0440,Eric Martin,Biology,61,Pass
+STU0441,Ethan Lewis,Mechanical Engineering,86,Pass
+STU0442,Andrew Hernandez,Biology,90,Pass
+STU0443,Kimberly Taylor,Psychology,88,Pass
+STU0444,Elizabeth Huang,Psychology,94,Pass
+STU0445,Karen Perez,Psychology,97,Pass
+STU0446,Carol Park,Computer Science,23,Fail
+STU0447,David Garcia,Psychology,53,Pass
+STU0448,Katherine Clark,English Literature,99,Pass
+STU0449,Samantha Brown,Civil Engineering,89,Pass
+STU0450,Emily Ryan,Biology,71,Pass
+STU0451,Kenneth Ibrahim,Mathematics,40,Pass
+STU0452,Jeffrey Shah,Civil Engineering,63,Pass
+STU0453,Nicole Jackson,Mechanical Engineering,60,Pass
+STU0454,Olivia Hall,Electrical Engineering,67,Pass
+STU0455,Angela Kim,Mathematics,79,Pass
+STU0456,Jessica Wright,Civil Engineering,32,Fail
+STU0457,Michael Nguyen,Electrical Engineering,73,Pass
+STU0458,Ashley Lee,Sociology,93,Pass
+STU0459,Mason Green,Chemistry,83,Pass
+STU0460,Angela Chen,Civil Engineering,83,Pass
+STU0461,John Lopez,Electrical Engineering,50,Pass
+STU0462,Margaret Andersen,Mechanical Engineering,0,Fail
+STU0463,Andrew Yang,Economics,80,Pass
+STU0464,Andrew Yamamoto,Computer Science,75,Pass
+STU0465,Sarah King,History,71,Pass
+STU0466,George Garcia,Electrical Engineering,0,Fail
+STU0467,Brenda Harris,Mechanical Engineering,29,Fail
+STU0468,Deborah Huang,Civil Engineering,55,Pass
+STU0469,Helen Weber,Mathematics,32,Fail
+STU0470,Ronald Mitchell,English Literature,91,Pass
+STU0471,George Jackson,Chemistry,71,Pass
+STU0472,Nicholas Garcia,Computer Science,0,Fail
+STU0473,Isabella Nelson,English Literature,78,Pass
+STU0474,Karen Fischer,Political Science,61,Pass
+STU0475,Brandon Green,Physics,98,Pass
+STU0476,Liam Hill,Economics,85,Pass
+STU0477,Jonathan Zhang,History,80,Pass
+STU0478,John Mitchell,Mechanical Engineering,73,Pass
+STU0479,Justin Flores,English Literature,100,Pass
+STU0480,Patricia Schmidt,Civil Engineering,94,Pass
+STU0481,Pamela Robinson,History,0,Fail
+STU0482,Kathleen Perez,Business Administration,99,Pass
+STU0483,Evelyn Carter,Physics,51,Pass
+STU0484,Robert Choi,History,22,Fail
+STU0485,Jeffrey Green,Electrical Engineering,46,Pass
+STU0486,Edward Huang,English Literature,80,Pass
+STU0487,Liam Davis,History,46,Pass
+STU0488,Brenda Adams,Psychology,68,Pass
+STU0489,Joshua Thompson,Civil Engineering,63,Pass
+STU0490,Anna Rivera,Psychology,53,Pass
+STU0491,Brandon Liu,Chemistry,55,Pass
+STU0492,Brenda Hill,Chemistry,58,Pass
+STU0493,Logan Torres,History,82,Pass
+STU0494,Joshua Liu,Mechanical Engineering,55,Pass
+STU0495,Andrew Thomas,Economics,68,Pass
+STU0496,Ronald Hall,English Literature,57,Pass
+STU0497,Jennifer Torres,History,0,Fail
+STU0498,Jeffrey Sullivan,Biology,47,Pass
+STU0499,Betty Yamamoto,Biology,54,Pass
+STU0500,Sarah Wilson,Economics,50,Pass
+STU0501,Ashley Miller,Psychology,48,Pass
+STU0502,Samantha Robinson,Computer Science,62,Pass
+STU0503,Isabella Wang,Mathematics,37,Fail
+STU0504,James Sato,Political Science,80,Pass
+STU0505,Kathleen Sullivan,Chemistry,56,Pass
+STU0506,Michelle Torres,Psychology,0,Fail
+STU0507,Logan Lopez,Psychology,88,Pass
+STU0508,Liam Jones,Political Science,73,Pass
+STU0509,Daniel Jones,Sociology,83,Pass
+STU0510,Nancy Nguyen,Political Science,0,Fail
+STU0511,Kenneth Park,Economics,62,Pass
+STU0512,Andrew Ibrahim,Psychology,83,Pass
+STU0513,Sarah Huang,Civil Engineering,34,Fail
+STU0514,Kevin Lee,History,52,Pass
+STU0515,Isabella White,Computer Science,57,Pass
+STU0516,Larry Rossi,English Literature,98,Pass
+STU0517,Samantha Kumar,Sociology,61,Pass
+STU0518,Elizabeth Kumar,Psychology,37,Fail
+STU0519,Kathleen Adams,Political Science,53,Pass
+STU0520,Deborah Walker,Civil Engineering,62,Pass
+STU0521,Kenneth Andersen,History,53,Pass
+STU0522,Katherine Campbell,History,35,Fail
+STU0523,Cynthia Flores,Physics,84,Pass
+STU0524,Ethan Flores,History,57,Pass
+STU0525,Melissa Weber,Chemistry,37,Fail
+STU0526,Kathleen Martin,Civil Engineering,97,Pass
+STU0527,Melissa Shah,History,80,Pass
+STU0528,Noah Yamamoto,English Literature,47,Pass
+STU0529,Harper Young,Psychology,30,Fail
+STU0530,Shirley Hassan,Business Administration,29,Fail
+STU0531,Larry Anderson,Computer Science,84,Pass
+STU0532,Betty Choi,Business Administration,61,Pass
+STU0533,Eric Ali,Mathematics,94,Pass
+STU0534,Gary Lopez,Political Science,27,Fail
+STU0535,Ryan Taylor,Business Administration,92,Pass
+STU0536,Linda Kim,Civil Engineering,59,Pass
+STU0537,Mason Williams,Electrical Engineering,20,Fail
+STU0538,Ava Ramirez,Economics,0,Fail
+STU0539,Jason Hall,History,0,Fail
+STU0540,Linda Rodriguez,Political Science,56,Pass
+STU0541,Edward White,English Literature,73,Pass
+STU0542,Melissa Carter,Civil Engineering,68,Pass
+STU0543,Timothy Hernandez,Psychology,89,Pass
+STU0544,Sarah Sullivan,Sociology,42,Pass
+STU0545,Jonathan Patel,Business Administration,48,Pass
+STU0546,James Williams,Biology,89,Pass
+STU0547,Jason Yamamoto,Electrical Engineering,51,Pass
+STU0548,Ryan Hall,Physics,34,Fail
+STU0549,Robert Costa,Electrical Engineering,22,Fail
+STU0550,Donald Clark,Mathematics,24,Fail
+STU0551,Laura Schmidt,Psychology,26,Fail
+STU0552,Ashley Garcia,Electrical Engineering,89,Pass
+STU0553,Margaret Davis,Physics,57,Pass
+STU0554,Sandra Choi,Mechanical Engineering,61,Pass
+STU0555,Donald Hill,Political Science,86,Pass
+STU0556,Mark Singh,Biology,91,Pass
+STU0557,Emma Thompson,Psychology,91,Pass
+STU0558,Amy Miller,Mechanical Engineering,68,Pass
+STU0559,Oliver Tanaka,Mechanical Engineering,72,Pass
+STU0560,Karen Hill,Electrical Engineering,88,Pass
+STU0561,Jacob Walker,Sociology,38,Fail
+STU0562,Cynthia Davis,Business Administration,73,Pass
+STU0563,Brenda Tanaka,Physics,52,Pass
+STU0564,Anthony Nelson,Psychology,0,Fail
+STU0565,Laura Mitchell,Mathematics,44,Pass
+STU0566,Michael Wright,Electrical Engineering,97,Pass
+STU0567,Jennifer Martinez,Chemistry,95,Pass
+STU0568,Mason Ferrari,Business Administration,46,Pass
+STU0569,Kevin Hill,Political Science,0,Fail
+STU0570,Matthew Thomas,History,81,Pass
+STU0571,Ashley Fischer,History,50,Pass
+STU0572,Stephen Adams,English Literature,79,Pass
+STU0573,Jonathan Sullivan,Mechanical Engineering,66,Pass
+STU0574,Angela Yang,Civil Engineering,80,Pass
+STU0575,Harper Green,Political Science,60,Pass
+STU0576,Edward Garcia,Economics,38,Fail
+STU0577,John King,Business Administration,94,Pass
+STU0578,Mason Shah,Biology,62,Pass
+STU0579,Sandra Carter,Economics,83,Pass
+STU0580,Stephen Sullivan,Psychology,82,Pass
+STU0581,Mason Ryan,History,41,Pass
+STU0582,Olivia Rivera,Physics,89,Pass
+STU0583,Gary White,Political Science,27,Fail
+STU0584,Shirley Jones,Sociology,26,Fail
+STU0585,Harper Smith,Electrical Engineering,100,Pass
+STU0586,Sandra Rodriguez,History,47,Pass
+STU0587,Nicholas Ibrahim,Mechanical Engineering,0,Fail
+STU0588,Samantha Ferrari,Political Science,81,Pass
+STU0589,Raymond Zhang,Computer Science,0,Fail
+STU0590,Stephen Singh,Computer Science,0,Fail
+STU0591,Mason Scott,Business Administration,22,Fail
+STU0592,Nicholas Rossi,Electrical Engineering,42,Pass
+STU0593,Susan Gonzalez,Business Administration,44,Pass
+STU0594,Helen Tanaka,Biology,54,Pass
+STU0595,Abigail Patel,Mathematics,71,Pass
+STU0596,Ryan Park,Chemistry,48,Pass
+STU0597,Kenneth Hernandez,Psychology,24,Fail
+STU0598,Elizabeth Kumar,Electrical Engineering,80,Pass
+STU0599,Linda Walsh,Computer Science,30,Fail
+STU0600,Amy Khan,Psychology,92,Pass
+STU0601,Richard Tanaka,Political Science,0,Fail
+STU0602,Margaret Park,Civil Engineering,29,Fail
+STU0603,Sofia Scott,Political Science,24,Fail
+STU0604,Daniel Green,Computer Science,95,Pass
+STU0605,Charles Patel,Political Science,0,Fail
+STU0606,Christopher Park,Chemistry,69,Pass
+STU0607,Aiden Suzuki,Mechanical Engineering,37,Fail
+STU0608,Abigail Hernandez,Business Administration,64,Pass
+STU0609,Michael Gonzalez,Electrical Engineering,29,Fail
+STU0610,Carol Fischer,English Literature,96,Pass
+STU0611,Ronald Adams,Computer Science,77,Pass
+STU0612,Gary Robinson,Mechanical Engineering,68,Pass
+STU0613,Sharon White,Psychology,68,Pass
+STU0614,David O'Brien,Biology,29,Fail
+STU0615,David Wright,Physics,39,Fail
+STU0616,Liam Roberts,Mechanical Engineering,31,Fail
+STU0617,James Flores,Civil Engineering,54,Pass
+STU0618,Susan Taylor,Mathematics,77,Pass
+STU0619,Brenda Kim,Business Administration,23,Fail
+STU0620,Elizabeth Rivera,Business Administration,96,Pass
+STU0621,Oliver Adams,Sociology,57,Pass
+STU0622,Edward Roberts,English Literature,91,Pass
+STU0623,Ashley Choi,Business Administration,68,Pass
+STU0624,Lisa Moore,Biology,83,Pass
+STU0625,Charles Rodriguez,Physics,73,Pass
+STU0626,Kenneth Liu,English Literature,0,Fail
+STU0627,Steven Young,History,96,Pass
+STU0628,Brandon Sanchez,Civil Engineering,58,Pass
+STU0629,James Patel,Mechanical Engineering,68,Pass
+STU0630,Kevin Ali,Mechanical Engineering,96,Pass
+STU0631,Sarah Hill,Mechanical Engineering,45,Pass
+STU0632,Kathleen Green,Physics,60,Pass
+STU0633,Emily Walsh,Civil Engineering,51,Pass
+STU0634,Michelle Carter,Biology,70,Pass
+STU0635,George Anderson,Political Science,95,Pass
+STU0636,Anna White,Psychology,23,Fail
+STU0637,Olivia Chen,History,57,Pass
+STU0638,Lucas Rodriguez,Sociology,72,Pass
+STU0639,Aiden Yang,Physics,50,Pass
+STU0640,Steven Costa,Physics,68,Pass
+STU0641,Barbara Hassan,Economics,71,Pass
+STU0642,Jonathan Huang,Political Science,73,Pass
+STU0643,Anna Jones,English Literature,88,Pass
+STU0644,Scott Walsh,Political Science,51,Pass
+STU0645,Raymond Ferrari,Mechanical Engineering,98,Pass
+STU0646,Jennifer Park,Psychology,71,Pass
+STU0647,Noah Nelson,English Literature,21,Fail
+STU0648,Richard King,Chemistry,86,Pass
+STU0649,Brenda Andersen,History,77,Pass
+STU0650,Melissa Patel,Civil Engineering,95,Pass
+STU0651,Lucas Huang,Physics,23,Fail
+STU0652,Kathleen Wilson,Biology,30,Fail
+STU0653,Joseph Jackson,Mechanical Engineering,78,Pass
+STU0654,Oliver Clark,Business Administration,80,Pass
+STU0655,Richard Ali,History,60,Pass
+STU0656,William Hill,Computer Science,34,Fail
+STU0657,John Baker,Psychology,41,Pass
+STU0658,Liam Young,Business Administration,40,Pass
+STU0659,Kevin Kim,Electrical Engineering,49,Pass
+STU0660,Stephanie Murphy,Physics,75,Pass
+STU0661,Ronald Brown,History,45,Pass
+STU0662,Laura Müller,Electrical Engineering,47,Pass
+STU0663,Anthony Scott,English Literature,28,Fail
+STU0664,Pamela Wilson,English Literature,43,Pass
+STU0665,George Adams,Chemistry,53,Pass
+STU0666,Christine Zhang,Business Administration,60,Pass
+STU0667,Scott Roberts,Economics,34,Fail
+STU0668,Brian Rivera,Sociology,42,Pass
+STU0669,Aiden Hill,Political Science,30,Fail
+STU0670,Aiden Moore,Mechanical Engineering,59,Pass
+STU0671,Joseph White,Mechanical Engineering,85,Pass
+STU0672,Deborah Shah,Economics,69,Pass
+STU0673,Jason White,Civil Engineering,42,Pass
+STU0674,Brenda Perez,Civil Engineering,43,Pass
+STU0675,Joshua Hassan,Economics,0,Fail
+STU0676,Amanda Johnson,Civil Engineering,69,Pass
+STU0677,Brenda Huang,Psychology,82,Pass
+STU0678,Rebecca Ali,Civil Engineering,92,Pass
+STU0679,Patricia Lewis,Biology,0,Fail
+STU0680,Mark Yamamoto,Biology,78,Pass
+STU0681,Larry Yang,Business Administration,93,Pass
+STU0682,Joseph Wright,English Literature,66,Pass
+STU0683,Anna Garcia,English Literature,89,Pass
+STU0684,Margaret Ahmed,Mathematics,51,Pass
+STU0685,Kenneth Jones,Civil Engineering,31,Fail
+STU0686,Jeffrey Thomas,English Literature,46,Pass
+STU0687,Liam Müller,History,98,Pass
+STU0688,Benjamin Ahmed,Physics,46,Pass
+STU0689,Anthony Davis,Economics,55,Pass
+STU0690,Scott Yamamoto,Physics,57,Pass
+STU0691,Emily Choi,Biology,85,Pass
+STU0692,Aiden Gonzalez,Physics,72,Pass
+STU0693,Linda Scott,Sociology,36,Fail
+STU0694,Ashley Jackson,History,51,Pass
+STU0695,Harper Rossi,Electrical Engineering,93,Pass
+STU0696,Benjamin Wright,Psychology,77,Pass
+STU0697,Barbara Walsh,English Literature,31,Fail
+STU0698,Stephanie Wu,History,67,Pass
+STU0699,Ryan Zhang,Mechanical Engineering,31,Fail
+STU0700,Olivia Ibrahim,Psychology,65,Pass
+STU0701,William Yamamoto,Electrical Engineering,74,Pass
+STU0702,Margaret Yang,Biology,56,Pass
+STU0703,Carol Sato,Economics,82,Pass
+STU0704,Oliver Baker,Political Science,26,Fail
+STU0705,Jennifer Gonzalez,Psychology,78,Pass
+STU0706,John Thomas,Political Science,76,Pass
+STU0707,Ryan Smith,Electrical Engineering,36,Fail
+STU0708,Katherine Hill,Physics,55,Pass
+STU0709,Elizabeth Sullivan,Mechanical Engineering,67,Pass
+STU0710,Christine Sullivan,Physics,0,Fail
+STU0711,Benjamin Flores,History,49,Pass
+STU0712,Jason Sullivan,Mathematics,20,Fail
+STU0713,Margaret Liu,Mathematics,48,Pass
+STU0714,Eric Ali,Computer Science,0,Fail
+STU0715,Carol Thomas,Sociology,36,Fail
+STU0716,Kathleen Martinez,Chemistry,33,Fail
+STU0717,Susan Green,Mechanical Engineering,37,Fail
+STU0718,Timothy Moore,Psychology,38,Fail
+STU0719,William Tanaka,Economics,0,Fail
+STU0720,Katherine Perez,Civil Engineering,47,Pass
+STU0721,Benjamin Martin,Political Science,76,Pass
+STU0722,Margaret Lopez,Political Science,35,Fail
+STU0723,Emma Roberts,Mechanical Engineering,60,Pass
+STU0724,Abigail Moore,Chemistry,30,Fail
+STU0725,Ashley Sato,Economics,97,Pass
+STU0726,Andrew Brown,Sociology,58,Pass
+STU0727,Anthony Lin,Economics,70,Pass
+STU0728,Emily Ryan,Computer Science,50,Pass
+STU0729,Amy Roberts,Mathematics,96,Pass
+STU0730,Barbara Tanaka,Political Science,66,Pass
+STU0731,Joshua Taylor,Electrical Engineering,92,Pass
+STU0732,Rebecca Campbell,Business Administration,80,Pass
+STU0733,Logan Martinez,Computer Science,21,Fail
+STU0734,Dorothy Ramirez,Computer Science,70,Pass
+STU0735,Nicholas Torres,Psychology,73,Pass
+STU0736,Jason Kumar,Mathematics,88,Pass
+STU0737,Brandon Martin,Biology,30,Fail
+STU0738,Angela Clark,English Literature,61,Pass
+STU0739,Ronald Müller,Psychology,28,Fail
+STU0740,Donna Khan,History,50,Pass
+STU0741,Linda Young,Mathematics,34,Fail
+STU0742,Ryan Weber,Economics,0,Fail
+STU0743,Christine Costa,History,21,Fail
+STU0744,Ethan Moore,History,0,Fail
+STU0745,Amy Hall,Business Administration,53,Pass
+STU0746,Lisa Mitchell,Physics,54,Pass
+STU0747,Olivia Thomas,English Literature,62,Pass
+STU0748,Jason Wright,Business Administration,0,Fail
+STU0749,Isabella Choi,Psychology,0,Fail
+STU0750,Ryan Wu,Mechanical Engineering,0,Fail
+STU0751,Larry Perez,Mechanical Engineering,33,Fail
+STU0752,Pamela Rossi,History,85,Pass
+STU0753,James Garcia,Sociology,51,Pass
+STU0754,Jennifer Wang,Mechanical Engineering,39,Fail
+STU0755,Daniel Jones,Business Administration,73,Pass
+STU0756,Mark Adams,Chemistry,60,Pass
+STU0757,Paul Martinez,Economics,84,Pass
+STU0758,Aiden Miller,Physics,86,Pass
+STU0759,Jennifer Kumar,Mathematics,56,Pass
+STU0760,Evelyn Flores,Mechanical Engineering,78,Pass
+STU0761,Mary Mitchell,Chemistry,58,Pass
+STU0762,Liam O'Brien,Chemistry,95,Pass
+STU0763,Amy Sanchez,History,51,Pass
+STU0764,Karen Smith,Political Science,49,Pass
+STU0765,Anna Hall,Psychology,21,Fail
+STU0766,Kevin Smith,English Literature,59,Pass
+STU0767,Susan Clark,Business Administration,73,Pass
+STU0768,Gary Davis,Physics,31,Fail
+STU0769,Jennifer Robinson,Political Science,72,Pass
+STU0770,Mia Mitchell,Civil Engineering,30,Fail
+STU0771,Justin Gonzalez,Business Administration,70,Pass
+STU0772,Barbara Müller,Economics,0,Fail
+STU0773,Raymond Taylor,Chemistry,60,Pass
+STU0774,Ronald Adams,Mechanical Engineering,49,Pass
+STU0775,Barbara Sanchez,Physics,94,Pass
+STU0776,Susan Martin,Mathematics,79,Pass
+STU0777,Joshua Singh,Mathematics,46,Pass
+STU0778,Laura Flores,Civil Engineering,35,Fail
+STU0779,Elizabeth Lee,English Literature,97,Pass
+STU0780,Jennifer Ramirez,Sociology,38,Fail
+STU0781,Elizabeth Young,Mechanical Engineering,26,Fail
+STU0782,Aiden Hill,Biology,42,Pass
+STU0783,Patricia Kumar,Sociology,90,Pass
+STU0784,Ashley Gonzalez,Civil Engineering,37,Fail
+STU0785,Jessica Johnson,Computer Science,48,Pass
+STU0786,Thomas Sanchez,Sociology,100,Pass
+STU0787,Samuel Hernandez,Economics,29,Fail
+STU0788,John Rodriguez,Chemistry,76,Pass
+STU0789,Thomas Lopez,Political Science,62,Pass
+STU0790,Jessica Garcia,Civil Engineering,0,Fail
+STU0791,Pamela Khan,Sociology,83,Pass
+STU0792,Patricia Carter,Psychology,65,Pass
+STU0793,Margaret White,Biology,39,Fail
+STU0794,Robert Weber,Economics,57,Pass
+STU0795,Amy Singh,Political Science,27,Fail
+STU0796,Elizabeth Scott,Electrical Engineering,45,Pass
+STU0797,Samuel Tanaka,Chemistry,89,Pass
+STU0798,Abigail Williams,Electrical Engineering,65,Pass
+STU0799,Kathleen Suzuki,English Literature,92,Pass
+STU0800,Nicholas Adams,Electrical Engineering,23,Fail
+STU0801,Joshua Schmidt,Chemistry,0,Fail
+STU0802,Evelyn Scott,Computer Science,80,Pass
+STU0803,Shirley Rivera,English Literature,49,Pass
+STU0804,Christopher Gonzalez,Chemistry,54,Pass
+STU0805,Jonathan Davis,English Literature,48,Pass
+STU0806,Pamela Roberts,Mechanical Engineering,42,Pass
+STU0807,Daniel Walker,Economics,65,Pass
+STU0808,Emma Brown,History,92,Pass
+STU0809,Larry Jackson,Economics,83,Pass
+STU0810,Anna Flores,Physics,31,Fail
+STU0811,Linda Robinson,Economics,87,Pass
+STU0812,Kathleen Smith,Mechanical Engineering,45,Pass
+STU0813,Thomas Baker,History,61,Pass
+STU0814,Linda Williams,Physics,38,Fail
+STU0815,Evelyn Anderson,Sociology,66,Pass
+STU0816,Barbara Mitchell,History,70,Pass
+STU0817,Emma Gonzalez,Mechanical Engineering,37,Fail
+STU0818,Christopher Khan,English Literature,82,Pass
+STU0819,Katherine Green,Physics,91,Pass
+STU0820,Lucas Weber,English Literature,95,Pass
+STU0821,Daniel Carter,Biology,57,Pass
+STU0822,Thomas Thompson,History,0,Fail
+STU0823,Mia Choi,Electrical Engineering,92,Pass
+STU0824,Robert White,Economics,98,Pass
+STU0825,Mark Walsh,Economics,83,Pass
+STU0826,Charles Nelson,History,0,Fail
+STU0827,Brian Green,Physics,31,Fail
+STU0828,Ethan Ferrari,Psychology,62,Pass
+STU0829,Laura Johnson,Biology,28,Fail
+STU0830,Brian Allen,English Literature,20,Fail
+STU0831,Michael Roberts,Civil Engineering,41,Pass
+STU0832,Edward Yang,Political Science,89,Pass
+STU0833,Timothy Gonzalez,Sociology,93,Pass
+STU0834,Katherine Lewis,Physics,24,Fail
+STU0835,Emily Williams,Mechanical Engineering,33,Fail
+STU0836,Barbara Baker,Physics,40,Pass
+STU0837,Olivia Martinez,Business Administration,31,Fail
+STU0838,Carol Schmidt,Economics,23,Fail
+STU0839,Sharon Sullivan,Physics,75,Pass
+STU0840,Christopher Miller,Mathematics,44,Pass
+STU0841,Edward Sato,History,89,Pass
+STU0842,Dorothy Costa,Biology,32,Fail
+STU0843,Michael Patel,Economics,82,Pass
+STU0844,Karen Miller,Mechanical Engineering,0,Fail
+STU0845,Elizabeth Nguyen,Sociology,96,Pass
+STU0846,Kathleen Sanchez,Mathematics,0,Fail
+STU0847,Lisa Walsh,Biology,80,Pass
+STU0848,Joseph Flores,English Literature,82,Pass
+STU0849,Raymond King,Mathematics,69,Pass
+STU0850,Nancy Mitchell,Political Science,43,Pass
+STU0851,Laura Garcia,Biology,53,Pass
+STU0852,Mark Wright,Economics,0,Fail
+STU0853,Noah Ferrari,Mathematics,64,Pass
+STU0854,Anna Singh,English Literature,90,Pass
+STU0855,Linda Roberts,Sociology,88,Pass
+STU0856,Sofia Wang,Economics,80,Pass
+STU0857,Kenneth Hernandez,Electrical Engineering,24,Fail
+STU0858,Nicholas Choi,Political Science,93,Pass
+STU0859,Aiden O'Brien,Physics,77,Pass
+STU0860,Daniel Perez,Chemistry,36,Fail
+STU0861,Jennifer Ahmed,Mathematics,75,Pass
+STU0862,Betty Murphy,Physics,53,Pass
+STU0863,Joshua Rodriguez,Mathematics,70,Pass
+STU0864,Stephen Adams,Sociology,78,Pass
+STU0865,Mary O'Brien,Economics,73,Pass
+STU0866,Joseph Shah,Physics,95,Pass
+STU0867,Justin Gonzalez,Political Science,32,Fail
+STU0868,Oliver Torres,Sociology,64,Pass
+STU0869,Edward King,Electrical Engineering,93,Pass
+STU0870,Nicole Wang,Computer Science,71,Pass
+STU0871,Charles O'Brien,Economics,71,Pass
+STU0872,Robert Patel,Political Science,50,Pass
+STU0873,Michael Wang,Political Science,67,Pass
+STU0874,John Baker,Sociology,59,Pass
+STU0875,Kimberly Zhang,Sociology,32,Fail
+STU0876,Sandra Moore,Biology,76,Pass
+STU0877,Evelyn Adams,Biology,97,Pass
+STU0878,Samuel Lopez,Chemistry,72,Pass
+STU0879,Liam Zhang,English Literature,67,Pass
+STU0880,Linda Wu,English Literature,59,Pass
+STU0881,Ethan Huang,Electrical Engineering,87,Pass
+STU0882,Larry Brown,Physics,45,Pass
+STU0883,Linda Young,Computer Science,66,Pass
+STU0884,Ethan Sanchez,Biology,79,Pass
+STU0885,Nicholas Patel,Psychology,23,Fail
+STU0886,Donald Mitchell,Civil Engineering,42,Pass
+STU0887,Jacob Müller,Business Administration,40,Pass
+STU0888,Dorothy Lopez,Biology,0,Fail
+STU0889,Michael Lee,Sociology,47,Pass
+STU0890,Mark Ryan,Chemistry,54,Pass
+STU0891,Katherine Singh,Business Administration,0,Fail
+STU0892,Evelyn Johnson,Civil Engineering,42,Pass
+STU0893,Scott Johnson,Chemistry,59,Pass
+STU0894,Isabella Ryan,Biology,68,Pass
+STU0895,Brian Ibrahim,Biology,58,Pass
+STU0896,Aiden Lin,Sociology,94,Pass
+STU0897,Susan Smith,Business Administration,67,Pass
+STU0898,Brenda Ryan,Economics,58,Pass
+STU0899,Sofia Wilson,Civil Engineering,0,Fail
+STU0900,Kimberly Walsh,Mechanical Engineering,53,Pass
+STU0901,Katherine Sullivan,Biology,86,Pass
+STU0902,Harper Walker,Political Science,0,Fail
+STU0903,Scott Kumar,Psychology,37,Fail
+STU0904,Mason Brown,Psychology,57,Pass
+STU0905,Dorothy Shah,Electrical Engineering,24,Fail
+STU0906,Justin Choi,Sociology,48,Pass
+STU0907,Sofia Yamamoto,Psychology,65,Pass
+STU0908,Nicholas Hill,Sociology,91,Pass
+STU0909,Nancy Nguyen,Mathematics,53,Pass
+STU0910,Mason Kim,English Literature,62,Pass
+STU0911,Katherine Lopez,Chemistry,59,Pass
+STU0912,Rebecca Nelson,Mechanical Engineering,57,Pass
+STU0913,Cynthia Thomas,Civil Engineering,0,Fail
+STU0914,Samantha Andersen,Economics,29,Fail
+STU0915,Jacob Harris,Business Administration,68,Pass
+STU0916,Shirley Hill,Electrical Engineering,0,Fail
+STU0917,Karen Moore,Chemistry,92,Pass
+STU0918,Ryan Jackson,Mechanical Engineering,43,Pass
+STU0919,Evelyn Hernandez,Civil Engineering,42,Pass
+STU0920,Joshua Walsh,Computer Science,0,Fail
+STU0921,Kimberly Clark,English Literature,93,Pass
+STU0922,Harper Lee,Civil Engineering,31,Fail
+STU0923,Thomas Weber,Electrical Engineering,71,Pass
+STU0924,Jason Liu,Electrical Engineering,0,Fail
+STU0925,Jonathan Sanchez,History,21,Fail
+STU0926,Michelle Tanaka,Chemistry,0,Fail
+STU0927,James Murphy,History,64,Pass
+STU0928,Donna Taylor,Mathematics,95,Pass
+STU0929,Donna Perez,Mathematics,58,Pass
+STU0930,Emily Ibrahim,History,87,Pass
+STU0931,Carol Khan,Political Science,37,Fail
+STU0932,Carol Zhang,Mechanical Engineering,41,Pass
+STU0933,Stephanie Williams,Chemistry,36,Fail
+STU0934,Margaret Williams,Economics,35,Fail
+STU0935,George Sullivan,English Literature,0,Fail
+STU0936,Samantha Allen,English Literature,26,Fail
+STU0937,Scott Miller,Psychology,22,Fail
+STU0938,Michael Anderson,Electrical Engineering,35,Fail
+STU0939,Stephen Allen,Civil Engineering,46,Pass
+STU0940,Lucas Murphy,Computer Science,32,Fail
+STU0941,Raymond Lin,Biology,37,Fail
+STU0942,Rebecca Wilson,Business Administration,35,Fail
+STU0943,Andrew Anderson,English Literature,45,Pass
+STU0944,Nicole Sanchez,English Literature,86,Pass
+STU0945,Betty Rivera,History,40,Pass
+STU0946,Jennifer Sato,Civil Engineering,81,Pass
+STU0947,Kevin Walker,Computer Science,0,Fail
+STU0948,Elizabeth Anderson,Sociology,83,Pass
+STU0949,Karen Lopez,English Literature,32,Fail
+STU0950,Steven Ryan,Chemistry,57,Pass
+STU0951,Dorothy Chen,Computer Science,42,Pass
+STU0952,Jennifer Nguyen,Mechanical Engineering,60,Pass
+STU0953,Jason Anderson,Mathematics,25,Fail
+STU0954,Mary Moore,Psychology,62,Pass
+STU0955,Amanda Ali,Economics,31,Fail
+STU0956,Melissa Baker,Physics,71,Pass
+STU0957,Ryan Wright,Sociology,81,Pass
+STU0958,Rebecca Sullivan,Political Science,34,Fail
+STU0959,Thomas Davis,Sociology,73,Pass
+STU0960,Emma Liu,English Literature,76,Pass
+STU0961,Nancy Weber,Electrical Engineering,98,Pass
+STU0962,Patricia Taylor,Civil Engineering,34,Fail
+STU0963,Edward Ali,Computer Science,0,Fail
+STU0964,Katherine Green,Computer Science,87,Pass
+STU0965,Logan Choi,History,63,Pass
+STU0966,Eric Lin,History,32,Fail
+STU0967,Sharon Costa,History,64,Pass
+STU0968,Raymond Rossi,Psychology,91,Pass
+STU0969,Brandon Miller,Computer Science,40,Pass
+STU0970,Nicholas Wang,Sociology,41,Pass
+STU0971,Barbara Zhang,Mechanical Engineering,55,Pass
+STU0972,Michael Huang,Chemistry,68,Pass
+STU0973,Stephanie Walker,Mathematics,93,Pass
+STU0974,Laura Lopez,Sociology,60,Pass
+STU0975,Jessica Yang,History,33,Fail
+STU0976,Stephanie Singh,Computer Science,20,Fail
+STU0977,Elizabeth Fischer,Economics,85,Pass
+STU0978,Brenda Clark,Psychology,63,Pass
+STU0979,George Miller,Sociology,78,Pass
+STU0980,Kevin Kim,English Literature,80,Pass
+STU0981,Isabella Costa,Mechanical Engineering,34,Fail
+STU0982,Richard Costa,Chemistry,0,Fail
+STU0983,Amanda Walsh,English Literature,86,Pass
+STU0984,Melissa Wilson,Computer Science,83,Pass
+STU0985,Sarah Singh,Mathematics,45,Pass
+STU0986,Matthew Thomas,Political Science,47,Pass
+STU0987,Ryan Harris,History,73,Pass
+STU0988,Jennifer Walsh,Sociology,35,Fail
+STU0989,Logan Hassan,Civil Engineering,84,Pass
+STU0990,Sarah Yang,Computer Science,26,Fail
+STU0991,Stephen Khan,Sociology,85,Pass
+STU0992,Evelyn Thompson,History,36,Fail
+STU0993,Susan Roberts,Psychology,61,Pass
+STU0994,Nicholas Roberts,Electrical Engineering,51,Pass
+STU0995,Kimberly Patel,Mechanical Engineering,77,Pass
+STU0996,Sarah Moore,Electrical Engineering,85,Pass
+STU0997,Kenneth Sato,Sociology,90,Pass
+STU0998,Benjamin Ramirez,Chemistry,57,Pass
+STU0999,Sofia Hall,Political Science,42,Pass
+STU1000,Nicholas Suzuki,History,34,Fail
